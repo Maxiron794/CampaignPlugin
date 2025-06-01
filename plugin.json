@@ -1,0 +1,7 @@
+{
+  "name": "CampaignPlugin",
+  "author": "Maxiron794",
+  "main": "stellar.CampaignPlugin",
+  "description": "A plugin to add crux and malis infinite resources.",
+  "version": 1.0
+}
